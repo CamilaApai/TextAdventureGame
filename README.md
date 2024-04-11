@@ -4,7 +4,7 @@ This project centers around developing a text adventure game using C#. Within th
 
 The primary goal is to deliver an engaging and interactive gaming experience within the C# environment, demonstrating integration with Visual Studio Code and GitHub.
 
-In the text adventure game, players navigate through different scenarios by selecting from available options. It's crucial to choose carefully, as a wrong decision may lead to the player's death and ultimately, game over.
+In the adventure game, players navigate through different scenarios by selecting from available options. It's crucial to choose carefully, as a wrong decision may lead to the player's death and ultimately, game over.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -22,6 +22,6 @@ In the text adventure game, players navigate through different scenarios by sele
 
 # Future Work
 
-- Error Handling for User Input
 - Visual Representation of the Game
 - Sound Effects for Game Events
+- More options to the game story

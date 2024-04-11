@@ -80,7 +80,7 @@ class AdventureGame
 
     // Function for the River Path
     static void RiverPath()
-    {   
+    {
         // Introduction to the river path
         Console.WriteLine("As you get closer to the river, you see a glow coming out of it, and you feel incredibly dazed.");
         Console.WriteLine("");
@@ -110,7 +110,7 @@ class AdventureGame
 
     // Function for the Light Path
     static void LightPath()
-    {   
+    {
         // Introduction to the light path
         Console.WriteLine("You get closer and closer to the light you observed. When you do so, you can see an old cabin.");
         Console.WriteLine("");
@@ -134,9 +134,9 @@ class AdventureGame
         }
     }
 
-// Function for when the player decides to enter the cabin
+    // Function for when the player decides to enter the cabin
     static void EnterCabin()
-    {   
+    {
         // Introduction to the enter cabin choice
         Console.WriteLine("The cabin is cozy, and you notice that the fireplace is burning. It seems that someone else has been there recently.");
         Console.WriteLine("");
@@ -162,7 +162,7 @@ class AdventureGame
 
     // Function for when the player decides to keep walking
     static void ContinueWalking()
-    {   
+    {
         // Introduction to the continue walking choice
         Console.WriteLine("As you continue walking, you feel more and more fearful. Suddenly, a wounded wolf jumps towards you and tries to attack you.");
         Console.WriteLine("");
@@ -187,9 +187,9 @@ class AdventureGame
         }
     }
 
-// Function for when the player decides to wait for the owner of the cabin
+    // Function for when the player decides to wait for the owner of the cabin
     static void WaitForOwner()
-    {   
+    {
         // Introduction to the wait for owner choice
         Console.WriteLine("The owner of the place arrives, an old woman. She doesn't inspire confidence in you, but you still decide to interact with her.");
         Console.WriteLine("");
