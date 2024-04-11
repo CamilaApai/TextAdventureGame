@@ -15,8 +15,6 @@ In the text adventure game, players navigate through different scenarios by sele
 - Visual Studio Code
 - C#
 
-Libraries:
-
 # Useful Websites
 
 - [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
@@ -26,4 +24,4 @@ Libraries:
 
 - Error Handling for User Input
 - Visual Representation of the Game
-- Add sound effects when the player looses
+- Sound Effects for Game Events
